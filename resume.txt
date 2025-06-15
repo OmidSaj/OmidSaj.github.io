@@ -1,0 +1,78 @@
+Seyedomid (“Omid”) Sajedi
+NYC, NY |+1-716-444-3997 | osajedi8@gmail.com |                   
+
+GitHub: https://github.com/OmidSaj
+LinkedIn: https://www.linkedin.com/in/seyedomid-sajedi-263b703a/
+
+ 
+Summary
+AI engineer with a PhD in STEM and expertise in deep learning, NLP, and reinforcement learning. Proven ability to develop and deploy AI solutions for diverse applications, including generative AI, and domain-specific ML models. Strong collaborator passionate about intelligent automation.
+
+Experience
+
+CORE Studio at Thornton Tomasetti 
+  NYC, NY  
+Associate AI/ML Engineer (2024 - Present)
+
+-	Developed a vectorized reinforcement learning environment for physics-based environment evaluation accelerating agent training by 2000x on CPU and 4000x on GPU on local servers. 
+-	Conducted UX surveys and in-person interviews with 50+ engineers, driving increased adoption of data science solutions and tailoring them to business-aligned engineering needs. 
+-	Built and deployed 3 engineering Copilot applications used by +300 engineers internally. 
+-	Developed a custom ReAct LLM agent with advanced reasoning capabilities, accessing 25+ complex engineering tools, optimizing for latency, token usage, and operational costs in production.
+-	Developed a contract review system by orchestrating a multi-modal agentic workflow.
+
+Senior AI/ML Engineer (2023)
+
+-	Created the firm’s first Retrieval-Augmented Generation (RAG) chatbot, leveraging TF-IDF, BM25, and vector embeddings for enhanced hybrid search and retrieval.
+-	Developed “MarkGPT,” a marketing chatbot that provided insights from 5000 project sheets and 10,000 resumes, streamlining marketing efforts and enhancing project proposals.
+-	Built an LLM agent to preserve domain-specific knowledge from a retired engineer, answering 12,000 construction questions using years of correspondence data, work featured in unfrozen podcast. (link to podcast: https://unfrozenarch.net/episodes/domo-arigatou-mike-20)
+-	Led the development of the firm’s first ML model for large stadium roof design, achieving 95% testing accuracy on synthetic data and 97% alignment with a constructed stadium in Florida.
+-	AI strategy consultation and services to a Japanese firm, providing packages for data cleaning, ML, and domain specific evaluations.
+
+AI/ML Engineer (2022)
+
+-	Developed the first generative ML model for structural design at the firm using, improving design flexibility. This framework was later adopted in 4 projects by 2 other team members.
+-	Developed an ML pipeline for the Florida Department of Transportation (FDOT), developing a database from infrastructure reports, augmenting features, and delivering visual insights and a forecast model to predict condition assessments. This effort led to securing future collaboration with FDOT. 
+-	ML engineer in collaboration with Heatherwick Studios, London, to integrate a custom stable diffusion model in Rhino 3D.  
+
+Summer Internship (2021)
+
+-	Developed a cloud-optimized algorithm for structural steel design, generating 50x more data 24x faster.
+Education
+
+PhD, AI & Machine Learning in Civil Engineering
+University at Buffalo SUNY, Buffalo, NY | 2022
+
+Dissertation: “Uncertainty-Assisted Artificial Intelligence for Reliable Structural Health Monitoring”
+
+
+Key contributions: conducted research on developing a system to trigger human intervention as a fail-safe for autonomous AI safety inspections. This work resulted in 25 publications with + 600 citations.  
+
+Strengths
+
+-	Strong problem-solving skills
+-	Interdisciplinary research experience
+-	Leadership in AI strategy development
+-	Collaboration and communication across technical and non-technical teams
+
+Skills
+
+-	Programming: Python, familiarity with C++
+-	ML: TensorFlow, PyTorch, Scikit-Learn, Keras, XGBoost
+-	Data Visualization: Matplotlib, Seaborn, Plotly
+-	Tools: Git, AWS SageMaker, AzureOAI, GCP
+-	NLP: Transformers, TF-IDF, BM25, Vector Embeddings, RAG, SFT, DPO, Inference Optimization, LangChain, AutoGen, Evaluation 
+-	Other: Reinforcement Learning, Time series Analysis, Synthetic Data Generation
+
+Open-source projects
+Hackathons:
+-	GraFix (honorable mention): https://github.com/simpleSketche/GraFix
+-	SAiF-GPT (honorable mention): https://github.com/ssajedi/SAiF-GPT
+-	FAM-JAM (best overall hack): https://github.com/ssajedi/FAM-JAM
+PhD research:
+-	HyDRA: https://github.com/OmidSaj/HyDRA
+-	UB Twin Vision (1st place on Kaggle): https://github.com/OmidSaj/UB-Twin-Vision (kaggle link: https://www.kaggle.com/competitions/icshm2021-p2-damage-state-segmentation/leaderboard)
+-	Uncertainy-assistned HRC: https://github.com/OmidSaj/Uncertainty-Assisted-HRC
+Conferences and Workshops
+Speaker/Panelist: Speaker and panelist, sharing research and Led discussions on responsible AI and physics-informed automation in more than 8 conferences since 2022. 
+Workshop Instructor: ML and LLM workshops for AEC professionals. Chicago Innovate 2023, AEC Tech 2023/2024 (NYC, LA).
+Industry supervisor: Stanford CEE329: AI in AEC course project. 
